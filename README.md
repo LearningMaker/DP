@@ -7,7 +7,7 @@ In addition, a small-scale energy dataset is provided for evaluation and testing
 
 ### DEPENDENCIES
 Our code is implemented and tested on PyTorch. Following packages are used by our code.
-- `tensorflow-gpu==110.1`
+- `tensorflow-gpu==1.10.1`
 - `torchvision==0.11.2`
 - `numpy==1.22.0`
 - `python-Levenshtein==0.12.2`
