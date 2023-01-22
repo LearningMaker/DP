@@ -2,7 +2,6 @@ import torch
 import torch.nn.functional as F
 import torch.utils.data
 import numpy as np
-import matplotlib.pyplot as plt
 import h5py
 import os
 os.environ["KMP_DUPLICATE_LIB_OK"] = "TRUE"
