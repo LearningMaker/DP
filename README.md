@@ -1,5 +1,5 @@
 ### ABOUT
-This is the source code of the online stage of DeepPower, and the source code of the training process in the offline stage is temporarily reserved.
+This is the source code of the online stage of DeepPower.
 
 The source code contains two steps in the online phase, and the trained weight files are saved in the "results" folder under the "Step1_Network_Structure_Recovery" and "Step2_Layer-wise_Hyperparameter_Inferring" folders.
 
